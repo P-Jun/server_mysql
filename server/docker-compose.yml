@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+
+  db:
+    image: mysql
+    command: --default-authentication-plugin=caching_sha2_password
+    restart: unless-stopped
+    volumes:
+      - ./db-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    ports:
+      - 3306:3306 
+  fail2ban:
+    image: crazymax/fail2ban:latest
+    container_name: fail2ban
+    network_mode: "host"
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    volumes:
+      - "./data:/data"
+      - "/var/log:/var/log:ro"
+    env_file:
+      - "./fail2ban.env"
+    restart: always
+
+  adminer:
+    image: adminer
+    restart: unless-stopped
+    ports:
+      - 8080:8080

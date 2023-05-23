@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\1227v\source\repos\mysql_con\main.cpp(53,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\1227v\source\repos\mysql_con\main.cpp(29,25): warning C4101: 'stmt' :참조되지 않은 지역 변수입니다.
+     C:\Users\1227v\source\repos\mysql_con\x64\Release\mysql_con.lib 라이브러리 및 C:\Users\1227v\source\repos\mysql_con\x64\Release\mysql_con.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 132 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_native_resultset_wrapper.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_native_statement_wrapper.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_native_connection_wrapper.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj) : warning LNK4099: '' PDB를 'mysqlcppconn-static.lib(mysql_native_driver_wrapper.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_client_api.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_client_api.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_uri.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_uri.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_warning.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_warning.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_util.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_util.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_statement.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_statement.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_resultset_metadata.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_resultset_metadata.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_resultset.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_resultset.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_resultbind.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_resultbind.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_ps_resultset_metadata.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_ps_resultset.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_ps_resultset.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_prepared_statement.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_prepared_statement.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_parameter_metadata.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_parameter_metadata.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_metadata.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_metadata.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_driver.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_driver.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_debug.obj) : warning LNK4099: '' PDB를 'mysqlcppconn-static.lib(mysql_debug.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_connection.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_connection.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_art_rset_metadata.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_art_rset_metadata.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+mysqlcppconn-static.lib(mysql_art_resultset.obj) : warning LNK4099: 'jdbc.pdb' PDB를 'mysqlcppconn-static.lib(mysql_art_resultset.obj)' 또는 'C:\Users\1227v\source\repos\mysql_con\x64\Release\jdbc.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  mysql_con.vcxproj -> C:\Users\1227v\source\repos\mysql_con\x64\Release\mysql_con.exe
+  row_count : 3
+  res : 17
+  res : 17
+  res : 17
+  
