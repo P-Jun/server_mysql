@@ -7,10 +7,13 @@ docker-compose version 1.29.2, build unknown
 
 # usage
 ## docker-compose
+```
 docker-compose up -d
-
+```
 ## check banned user
+```
 docker exec fail2ban fail2ban-client status sshd
+```
 
 # code
 ## server
