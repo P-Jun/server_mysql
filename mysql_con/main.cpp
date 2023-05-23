@@ -16,9 +16,9 @@
 
 using namespace std;
 
-const string server = "tcp://3.39.231.59:3306";
-const string username = "root";
-const string password = "example";
+const string server = SERVER_IP;
+const string username = ID;
+const string password = PWD;
 
 const string schema = "test";
 
